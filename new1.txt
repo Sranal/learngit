@@ -1,2 +1,8 @@
 aaa
+<<<<<<< Updated upstream
 bbb
+=======
+bbb
+hhh
+kkk
+>>>>>>> Stashed changes
